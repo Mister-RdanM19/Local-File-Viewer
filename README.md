@@ -25,3 +25,7 @@ Project ini dirancang untuk **aman, offline, dan sederhana**, cocok untuk kebutu
 ## 🚀 Cara Menggunakan
 KLIK LINK INI : <br>
 https://mister-rdanm19.github.io/Local-File-Viewer/
+
+## VIEW IMAGES
+
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/Local-File-Viewer/refs/heads/main/1.png">
